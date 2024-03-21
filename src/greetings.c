@@ -6,5 +6,5 @@
  * */
 void greetings()
 {
-    printf("Hello World\n");
+    printf("Hello from another source file\n");
 }
